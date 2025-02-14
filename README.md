@@ -31,10 +31,10 @@ pip install torch torchvision opencv-python numpy matplotlib scikit-learn tqdm
 Есть 3 варианта установить данный проект:
 
 1) Если у вас есть Git, выполните в терминале проекта данную команду:
-```bash
-git clone https://github.com/Dan11lkaa/Neural_network-Rusal.git
-```
-Скачать Git можно с официального сайта.
+  ```bash
+  git clone https://github.com/Dan11lkaa/Neural_network-Rusal.git
+  ```
+  Скачать Git можно с официального сайта.
 
 2) В главном меню вашего IDE найдите кнопку **Get from VCS** нажмите на нее и в поле **url** вставьте url данного репозитеория (https://github.com/Dan11lkaa/Neural_network-Rusal.git).
 
